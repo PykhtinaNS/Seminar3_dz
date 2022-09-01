@@ -1,0 +1,15 @@
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\bin\MCD\Debug\net6.0\Z19.exe
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\bin\MCD\Debug\net6.0\Z19.deps.json
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\bin\MCD\Debug\net6.0\Z19.runtimeconfig.json
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\bin\MCD\Debug\net6.0\Z19.dll
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\bin\MCD\Debug\net6.0\Z19.pdb
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\obj\MCD\Debug\net6.0\Z19.csproj.AssemblyReference.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\obj\MCD\Debug\net6.0\Z19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\obj\MCD\Debug\net6.0\Z19.AssemblyInfoInputs.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\obj\MCD\Debug\net6.0\Z19.AssemblyInfo.cs
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\obj\MCD\Debug\net6.0\Z19.csproj.CoreCompileInputs.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\obj\MCD\Debug\net6.0\Z19.dll
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\obj\MCD\Debug\net6.0\refint\Z19.dll
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\obj\MCD\Debug\net6.0\Z19.pdb
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\obj\MCD\Debug\net6.0\Z19.genruntimeconfig.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem3_dz\Z19\obj\MCD\Debug\net6.0\ref\Z19.dll
